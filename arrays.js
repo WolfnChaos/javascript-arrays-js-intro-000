@@ -35,4 +35,3 @@ function destructivelyRemoveElementFromBeginningOfArray(array) {
   array.pop()
   return array
 }
-
